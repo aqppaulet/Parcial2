@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/main.cpp.o -c \"/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/main.cpp\"",
+  "file": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/src/Page.cpp.o -c \"/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/Page.cpp\"",
+  "file": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/Page.cpp",
+  "output": "CMakeFiles/main.dir/src/Page.cpp.o"
+},
+{
+  "directory": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/src/BufferManager.cpp.o -c \"/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/BufferManager.cpp\"",
+  "file": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/BufferManager.cpp",
+  "output": "CMakeFiles/main.dir/src/BufferManager.cpp.o"
+},
+{
+  "directory": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/src/Buffer_Pool.cpp.o -c \"/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/Buffer_Pool.cpp\"",
+  "file": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/Buffer_Pool.cpp",
+  "output": "CMakeFiles/main.dir/src/Buffer_Pool.cpp.o"
+},
+{
+  "directory": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/src/Frame.cpp.o -c \"/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/Frame.cpp\"",
+  "file": "/home/oem/Documents/3er ano/base de datos 2/CLockLRU/sgbdNewBorn/Buffer-DB/src/Frame.cpp",
+  "output": "CMakeFiles/main.dir/src/Frame.cpp.o"
+}
+]

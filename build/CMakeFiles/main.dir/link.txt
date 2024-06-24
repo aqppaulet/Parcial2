@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/Page.cpp.o CMakeFiles/main.dir/src/BufferManager.cpp.o CMakeFiles/main.dir/src/Buffer_Pool.cpp.o CMakeFiles/main.dir/src/Frame.cpp.o -o bin/main
